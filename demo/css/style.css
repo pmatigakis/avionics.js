@@ -1,0 +1,21 @@
+@CHARSET "UTF-8";
+
+#pfd-roll{
+	width: 300px;
+}
+
+#pfd-pitch{
+    width: 300px;
+}
+
+#pfd-heading{
+    width: 300px;
+}
+
+#pfd-airspeed{
+    width: 300px;
+}
+
+#pfd-altitude{
+    width: 300px;
+}
